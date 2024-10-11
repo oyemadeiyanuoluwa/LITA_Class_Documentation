@@ -1,4 +1,4 @@
-# SALES DATA ANALYSIS PROJECT
+ # SALES DATA ANALYSIS PROJECT
 ## OVERVIEW
 In this Superstore Sales Microsoft Excel Data Analysis project, an exploratory data analysis was performed on the Supermarket Sales Data available on Kaggle.com The main aim of the project is to uncover insights into the store's sales and profits trends and patterns of three different supermarkets in three months in 2019. After cleaning and preprocessing the data, the profits trends were visualized by city, Product line,unit price,Quantity,tax 5%,gross income,rating and also timeline (January,February and March 2019). Additionally, top-performing, least-performing product line and the most profitable productline was identified. 
 
@@ -20,6 +20,14 @@ In this Superstore Sales Microsoft Excel Data Analysis project, an exploratory d
 * Gross Margin Percentage: Gross margin percentage is a financial metric that shows the proportion of revenue that exceeds the cost of goods sold (COGS).
 * Gross Income: Gross income refers to the total earnings of an individual or business before any deductions or taxes are applied. For businesses, it is often calculated as revenue minus the cost of goods sold (COGS).
 * Rating: Rating refers to an evaluation or assessment of quality, performance, or value.
+
+## Project Overview
+This project was designed to address the following analysis goal:
+* The Sum of the Gross income made by each Product Line in Each Month.
+* The Sum of the Unit Price of each Product Line.
+  
+
+
 
 
 
