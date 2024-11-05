@@ -1,4 +1,4 @@
- # SALES DATA ANALYSIS PROJECT
+ # FIRST DATA ANALYSIS PROJECT 
 ## OVERVIEW
 In this Superstore Sales Microsoft Excel Data Analysis project, an exploratory data analysis was performed on the Supermarket Sales Data available on Kaggle.com The main aim of the project is to uncover insights into the store's sales and profits trends and patterns of three different supermarkets in three months in 2019. After cleaning and preprocessing the data, the profits trends were visualized by city, Product line,unit price,Quantity,tax 5%,gross income,rating and also timeline (January,February and March 2019). Additionally, top-performing, least-performing product line and the most profitable productline was identified. 
 
